@@ -4,7 +4,6 @@
     "homepage": "https://github.com/ranvk/yii2-aliyun-logtarget",
     "keywords": ["yii2", "aliyunlog", "logtarget", "log"],
     "type": "yii2-extension",
-
     "license": "BSD-3-Clause",
     "authors": [
         {

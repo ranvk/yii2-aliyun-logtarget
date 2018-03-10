@@ -1,4 +1,3 @@
-# Ignore all test and documentation for archive
-
-/.gitignore          export-ignore
-/aliyun-log-php-sdk  export-ignore
+*.js linguist-language=Scala
+*.css linguist-language=Scala
+*.html linguist-language=Scala
