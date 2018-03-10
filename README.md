@@ -20,12 +20,6 @@ or add
 "ranvk/yii2-aliyun-logtarget": "dev-master"
 ```
 
-to the require section of your composer.json.
-
-> ```json
-> "ranvk/yii2-aliyun-logtarget": "dev-master"
-> ```
-
 Usage
 -----
 
