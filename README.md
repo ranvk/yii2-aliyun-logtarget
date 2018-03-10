@@ -17,7 +17,7 @@ php composer.phar require --prefer-dist ranvk/yii2-aliyun-logtarget
 or add
 
 ```json
-"ranvk/yii2-aliyun-logtarget"
+"ranvk/yii2-aliyun-logtarget": "dev-master"
 ```
 
 to the require section of your composer.json.
@@ -27,7 +27,7 @@ to the require section of your composer.json.
 > PHP 5.4 and higher. Use the following version constraint in that case:
 > 
 > ```json
-> "ranvk/yii2-aliyun-logtarget"
+> "ranvk/yii2-aliyun-logtarget": "dev-master"
 > ```
 
 Usage
