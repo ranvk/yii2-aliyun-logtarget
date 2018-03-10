@@ -17,7 +17,7 @@ php composer.phar require --prefer-dist ranvk/yii2-aliyun-logtarget
 or add
 
 ```json
-"ranvk/yii2-aliyun-logtarget": "dev-master"
+"ranvk/yii2-aliyun-logtarget": "^18.3"
 ```
 
 Usage

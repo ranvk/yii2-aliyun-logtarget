@@ -1,6 +1,6 @@
 <?php
 
-namespace Ranvk\yii2AliyunLogtarget;
+namespace Ranvk\Yii2AliyunLogtarget;
 
 use yii\base\InvalidConfigException;
 use yii\log\Target;
