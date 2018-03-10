@@ -1,6 +1,4 @@
 # yii2-aliyun-logtarget
-阿里云log 使用logtarget 记录日志
-
 
 Installation
 ------------
