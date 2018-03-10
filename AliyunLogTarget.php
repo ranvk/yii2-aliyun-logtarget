@@ -6,7 +6,7 @@ use yii\base\InvalidConfigException;
 use yii\log\Target;
 use Yii;
 
-require(dirname(__DIR__). '/aliyun-log-php-sdk/Log_Autoload.php');
+require(dirname(__DIR__). '/yii2-aliyun-logtarget/aliyun-log-php-sdk/Log_Autoload.php');
 
 class AliyunLogTarget extends Target
 {
