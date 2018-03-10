@@ -1,0 +1,4 @@
+# Ignore all test and documentation for archive
+
+/.gitignore          export-ignore
+/aliyun-log-php-sdk  export-ignore

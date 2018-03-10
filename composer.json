@@ -4,6 +4,7 @@
     "homepage": "https://github.com/ranvk/yii2-aliyun-logtarget",
     "keywords": ["yii2", "aliyunlog", "logtarget", "log"],
     "type": "yii2-extension",
+
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -13,7 +14,7 @@
     ],
     "require": {
         "php":">=5.5",
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "~2.0.4"
     },
     "repositories": [
         {
@@ -24,5 +25,9 @@
     "autoload": {
         "psr-4": { "Ranvk\\Yii2AliyunLogtarget\\": "" }
     },
-    "minimum-stability": "stable"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "18.3.x-dev"
+        }
+    }
 }
