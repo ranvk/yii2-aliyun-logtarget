@@ -23,5 +23,10 @@
     ],
     "autoload": {
         "psr-4": { "Ranvk\\Yii2AliyunLogtarget\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "18.3.x-dev"
+        }
     }
 }
