@@ -30,7 +30,7 @@ return [
             'targets' => [
                 [
                     'levels' => ['error', 'warning', 'info'],
-                    'class' => 'Ranvk\yii2AliyunLogtarget\AliyunLogTarget',
+                    'class' => 'Ranvk\Yii2AliyunLogtarget\AliyunLogTarget',
                     'logstore' => 'your_logstore',
                     'topic' => YII_ENV,
                     'project' => 'your_project',
